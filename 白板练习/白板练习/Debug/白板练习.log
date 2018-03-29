@@ -1,0 +1,7 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\白板练习\白板练习\源.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\白板练习\白板练习\源.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\白板练习\白板练习\源.cpp(83): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\qiusuo\source\repos\白板练习\白板练习\源.cpp(85): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  白板练习.vcxproj -> C:\Users\qiusuo\source\repos\白板练习\Debug\白板练习.exe
+  白板练习.vcxproj -> C:\Users\qiusuo\source\repos\白板练习\Debug\白板练习.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\sqlhomeword\sqlhomeword\源.cpp(15): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+c:\users\qiusuo\source\repos\sqlhomeword\sqlhomeword\源.cpp(11): warning C4101: “b”: 未引用的局部变量
+  SqlHomeword.vcxproj -> C:\Users\qiusuo\source\repos\SqlHomeword\Debug\SqlHomeword.exe
+  SqlHomeword.vcxproj -> C:\Users\qiusuo\source\repos\SqlHomeword\Debug\SqlHomeword.pdb (Partial PDB)

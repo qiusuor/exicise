@@ -1,0 +1,7 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\k个最邻近点\k个最邻近点\源.cpp(30): warning C4114: 多次使用同一类型限定符
+c:\users\qiusuo\source\repos\k个最邻近点\k个最邻近点\源.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\k个最邻近点\k个最邻近点\源.cpp(43): error C3867: “Solution::cmp”: 非标准语法；请使用 "&" 来创建指向成员的指针
+c:\users\qiusuo\source\repos\k个最邻近点\k个最邻近点\源.cpp(43): error C2672: “sort”: 未找到匹配的重载函数
+c:\users\qiusuo\source\repos\k个最邻近点\k个最邻近点\源.cpp(43): error C2780: “void std::sort(_RanIt,_RanIt)”: 应输入 2 个参数，却提供了 3 个
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\algorithm(2926): note: 参见“std::sort”的声明

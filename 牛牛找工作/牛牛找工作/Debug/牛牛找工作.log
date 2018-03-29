@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\牛牛找工作\牛牛找工作\源.cpp(49): error C3867: “Solutin::cmp”: 非标准语法；请使用 "&" 来创建指向成员的指针
+c:\users\qiusuo\source\repos\牛牛找工作\牛牛找工作\源.cpp(49): error C2672: “sort”: 未找到匹配的重载函数
+c:\users\qiusuo\source\repos\牛牛找工作\牛牛找工作\源.cpp(49): error C2780: “void std::sort(_RanIt,_RanIt)”: 应输入 2 个参数，却提供了 3 个
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\algorithm(2926): note: 参见“std::sort”的声明
+c:\users\qiusuo\source\repos\牛牛找工作\牛牛找工作\源.cpp(51): warning C4018: “<”: 有符号/无符号不匹配

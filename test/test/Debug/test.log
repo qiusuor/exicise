@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\test\test\源.cpp(35): warning C4101: “err”: 未引用的局部变量
+  test.vcxproj -> C:\Users\qiusuo\source\repos\test\Debug\test.exe
+  test.vcxproj -> C:\Users\qiusuo\source\repos\test\Debug\test.pdb (Partial PDB)

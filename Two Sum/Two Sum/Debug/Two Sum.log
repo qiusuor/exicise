@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\two sum\two sum\源.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\two sum\two sum\源.cpp(24): warning C4715: “Solution::twoSum”: 不是所有的控件路径都返回值
+  Two Sum.vcxproj -> C:\Users\qiusuo\source\repos\Two Sum\Debug\Two Sum.exe
+  Two Sum.vcxproj -> C:\Users\qiusuo\source\repos\Two Sum\Debug\Two Sum.pdb (Partial PDB)

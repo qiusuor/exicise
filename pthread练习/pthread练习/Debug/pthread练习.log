@@ -1,0 +1,5 @@
+﻿  源.cpp
+源.obj : error LNK2019: 无法解析的外部符号 __imp__pthread_mutex_init，该符号在函数 "private: __thiscall Singleton::Singleton(void)" (??0Singleton@@AAE@XZ) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 __imp__pthread_mutex_lock，该符号在函数 "public: static class Singleton * __cdecl Singleton::instanceOf(void)" (?instanceOf@Singleton@@SAPAV1@XZ) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 __imp__pthread_mutex_unlock，该符号在函数 "public: static class Singleton * __cdecl Singleton::instanceOf(void)" (?instanceOf@Singleton@@SAPAV1@XZ) 中被引用
+C:\Users\qiusuo\source\repos\pthread练习\Debug\pthread练习.exe : fatal error LNK1120: 3 个无法解析的外部命令

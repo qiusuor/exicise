@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\安置路灯\安置路灯\源.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\安置路灯\安置路灯\源.cpp(42): warning C4018: “>=”: 有符号/无符号不匹配
+  安置路灯.vcxproj -> c:\users\qiusuo\source\repos\安置路灯\Debug\安置路灯.exe
+  安置路灯.vcxproj -> c:\users\qiusuo\source\repos\安置路灯\Debug\安置路灯.pdb (Partial PDB)

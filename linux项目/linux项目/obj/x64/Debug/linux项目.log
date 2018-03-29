@@ -1,0 +1,8 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '123.207.143.243'
+  Starting remote build
+  Compiling sources:
+  源.cpp
+  Linking objects
+  linux项目.vcxproj -> c:\Users\qiusuo\source\repos\linux项目\linux项目\bin\x64\Debug\linux项目.out
