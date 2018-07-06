@@ -1,0 +1,7 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\gbn-client\gbn-client\源.cpp(84): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\qiusuo\source\repos\gbn-client\gbn-client\源.cpp(85): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\qiusuo\source\repos\gbn-client\gbn-client\源.cpp(115): warning C4309: “=”: 截断常量值
+c:\users\qiusuo\source\repos\gbn-client\gbn-client\源.cpp(141): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+c:\users\qiusuo\source\repos\gbn-client\gbn-client\源.cpp(150): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+  GBN-client.vcxproj -> C:\Users\qiusuo\source\repos\GBN-client\Debug\GBN-client.exe

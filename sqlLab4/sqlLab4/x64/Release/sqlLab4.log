@@ -1,0 +1,10 @@
+﻿  源.cpp
+  Unknown compiler version - please run the configure tests and report the results
+c:\users\qiusuo\source\repos\sqllab4\sqllab4\标头.h(22): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\qiusuo\source\repos\sqllab4\sqllab4\标头.h(353): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+  正在生成代码
+  1 of 460 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  sqlLab4.vcxproj -> C:\Users\qiusuo\source\repos\sqlLab4\x64\Release\sqlLab4.exe

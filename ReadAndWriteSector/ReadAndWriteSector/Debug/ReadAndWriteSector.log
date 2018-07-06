@@ -1,0 +1,7 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\readandwritesector\readandwritesector\源.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\readandwritesector\readandwritesector\源.cpp(80): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\readandwritesector\readandwritesector\源.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\readandwritesector\readandwritesector\源.cpp(102): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\readandwritesector\readandwritesector\源.cpp(114): warning C4018: “<”: 有符号/无符号不匹配
+  ReadAndWriteSector.vcxproj -> C:\Users\qiusuo\source\repos\ReadAndWriteSector\Debug\ReadAndWriteSector.exe

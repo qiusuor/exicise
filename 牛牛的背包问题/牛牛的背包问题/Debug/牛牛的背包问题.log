@@ -1,0 +1,39 @@
+﻿  源.cpp
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\unordered_map(119): error C2280: “std::hash<_Kty>::hash(const std::hash<_Kty> &)”: 尝试引用已删除的函数
+          with
+          [
+              _Kty=std::pair<int,int>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\type_traits(2415): note: 编译器已在此处生成“std::hash<_Kty>::hash”
+          with
+          [
+              _Kty=std::pair<int,int>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\unordered_map(118): note: 编译 类 模板 成员函数 "std::unordered_map<std::pair<int,int>,int,std::hash<_Kty>,std::equal_to<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>::unordered_map(void)" 时
+          with
+          [
+              _Kty=std::pair<int,int>,
+              _Ty=int
+          ]
+  c:\users\qiusuo\source\repos\牛牛的背包问题\牛牛的背包问题\源.cpp(36): note: 参见对正在编译的函数 模板 实例化“std::unordered_map<std::pair<int,int>,int,std::hash<_Kty>,std::equal_to<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>::unordered_map(void)”的引用
+          with
+          [
+              _Kty=std::pair<int,int>,
+              _Ty=int
+          ]
+  c:\users\qiusuo\source\repos\牛牛的背包问题\牛牛的背包问题\源.cpp(14): note: 参见对正在编译的 类 模板 实例化 "std::unordered_map<std::pair<int,int>,int,std::hash<_Kty>,std::equal_to<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>" 的引用
+          with
+          [
+              _Kty=std::pair<int,int>,
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\type_traits(2415): note: “std::hash<_Kty>::hash(const std::hash<_Kty> &)”: 因为 基类 调用已删除或不可访问的函数“std::_Conditionally_enabled_hash<_Kty,false>::_Conditionally_enabled_hash(const std::_Conditionally_enabled_hash<_Kty,false> &)”，所以已隐式删除函数
+          with
+          [
+              _Kty=std::pair<int,int>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\type_traits(2399): note: “std::_Conditionally_enabled_hash<_Kty,false>::_Conditionally_enabled_hash(const std::_Conditionally_enabled_hash<_Kty,false> &)”: 已显式删除函数
+          with
+          [
+              _Kty=std::pair<int,int>
+          ]

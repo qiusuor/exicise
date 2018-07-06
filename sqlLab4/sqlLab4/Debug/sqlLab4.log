@@ -1,0 +1,4 @@
+﻿  源.cpp
+  Unknown compiler version - please run the configure tests and report the results
+c:\users\qiusuo\source\repos\sqllab4\sqllab4\标头.h(21): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  sqlLab4.vcxproj -> C:\Users\qiusuo\source\repos\sqlLab4\Debug\sqlLab4.exe

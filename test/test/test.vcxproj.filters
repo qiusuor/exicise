@@ -15,8 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="源.cpp">
+    <ClCompile Include="..\..\..\..\Documents\Tencent Files\750435412\FileRecv\manifold(1)\src\DJIHardDriverManifold.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Documents\Tencent Files\750435412\FileRecv\manifold(1)\inc\DJIHardDriverManifold.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Documents\Tencent Files\750435412\FileRecv\manifold(1)\inc\DJI_HardDriver_Manifold.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

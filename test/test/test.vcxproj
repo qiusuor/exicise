@@ -115,7 +115,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="源.cpp" />
+    <ClCompile Include="..\..\..\..\Documents\Tencent Files\750435412\FileRecv\manifold(1)\src\DJIHardDriverManifold.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Documents\Tencent Files\750435412\FileRecv\manifold(1)\inc\DJIHardDriverManifold.h" />
+    <ClInclude Include="..\..\..\..\Documents\Tencent Files\750435412\FileRecv\manifold(1)\inc\DJI_HardDriver_Manifold.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

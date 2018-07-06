@@ -1,0 +1,19 @@
+﻿  源.cpp
+源.obj : error LNK2019: 无法解析的外部符号 ___WSAFDIsSet@8，该符号在函数 "unsigned int __stdcall ProxyThread(void *)" (?ProxyThread@@YGIPAX@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _accept@12，该符号在函数 _main 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _bind@12，该符号在函数 "bool __cdecl InitSocket(unsigned int &,int,struct sockaddr_in &)" (?InitSocket@@YA_NAAIHAAUsockaddr_in@@@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _closesocket@4，该符号在函数 "bool __cdecl ConnectToServer(unsigned int *,char * const)" (?ConnectToServer@@YA_NPAIQAD@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _connect@12，该符号在函数 "bool __cdecl ConnectToServer(unsigned int *,char * const)" (?ConnectToServer@@YA_NPAIQAD@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _htons@4，该符号在函数 "bool __cdecl ConnectToServer(unsigned int *,char * const)" (?ConnectToServer@@YA_NPAIQAD@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _inet_addr@4，该符号在函数 "bool __cdecl ConnectToServer(unsigned int *,char * const)" (?ConnectToServer@@YA_NPAIQAD@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _inet_ntoa@4，该符号在函数 "bool __cdecl ConnectToServer(unsigned int *,char * const)" (?ConnectToServer@@YA_NPAIQAD@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _listen@8，该符号在函数 "bool __cdecl InitSocket(unsigned int &,int,struct sockaddr_in &)" (?InitSocket@@YA_NAAIHAAUsockaddr_in@@@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _recv@16，该符号在函数 "unsigned int __stdcall ProxyThread(void *)" (?ProxyThread@@YGIPAX@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _select@20，该符号在函数 "unsigned int __stdcall ProxyThread(void *)" (?ProxyThread@@YGIPAX@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _send@16，该符号在函数 "unsigned int __stdcall ProxyThread(void *)" (?ProxyThread@@YGIPAX@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _socket@12，该符号在函数 "bool __cdecl ConnectToServer(unsigned int *,char * const)" (?ConnectToServer@@YA_NPAIQAD@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _gethostbyname@4，该符号在函数 "bool __cdecl ConnectToServer(unsigned int *,char * const)" (?ConnectToServer@@YA_NPAIQAD@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _WSAStartup@8，该符号在函数 "bool __cdecl InitSocket(unsigned int &,int,struct sockaddr_in &)" (?InitSocket@@YA_NAAIHAAUsockaddr_in@@@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _WSACleanup@0，该符号在函数 "bool __cdecl InitSocket(unsigned int &,int,struct sockaddr_in &)" (?InitSocket@@YA_NAAIHAAUsockaddr_in@@@Z) 中被引用
+源.obj : error LNK2019: 无法解析的外部符号 _WSAGetLastError@0，该符号在函数 "bool __cdecl InitSocket(unsigned int &,int,struct sockaddr_in &)" (?InitSocket@@YA_NAAIHAAUsockaddr_in@@@Z) 中被引用
+C:\Users\qiusuo\source\repos\net12\Debug\net12.exe : fatal error LNK1120: 17 个无法解析的外部命令

@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\networklab1\networklab1\源.cpp(52): warning C4101: “dwThreadID”: 未引用的局部变量
+c:\users\qiusuo\source\repos\networklab1\networklab1\源.cpp(114): warning C4101: “clientAddr”: 未引用的局部变量
+  NetworkLab1.vcxproj -> C:\Users\qiusuo\source\repos\NetworkLab1\Debug\NetworkLab1.exe

@@ -1,0 +1,3 @@
+﻿  server.cpp
+c:\users\qiusuo\source\repos\gbn\gbn\server.cpp(203): warning C4309: “=”: 截断常量值
+  GBN.vcxproj -> C:\Users\qiusuo\source\repos\GBN\Debug\GBN.exe
